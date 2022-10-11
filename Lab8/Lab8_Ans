@@ -1,0 +1,10 @@
+64050162 Ploychomphu Tulsuk
+---------------------------------
+2 power n:
+
+Received a SIGUSR1. The max n is 20! = 2432902008176640000
+--------------------------------
+//case sleep(1)
+parent wait for SIGALRM
+sending SIGALRM
+it takes 120005683
